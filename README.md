@@ -24,5 +24,5 @@ Seja Menath is a visionary developer from Sri Lanka, with a strong background in
 
 ---
 
-For more information about AI-GROOVE-FM and to explore the project further, visit the [AI-GROOVE-FM GitHub repository](https://github.com/Seja-menath-dev/AI-GROOVE-FM).
+For more information about AI-GROOVE-FM and to explore the project further, visit the [AI-GROOVE-FM ](https://seja-menath-dev.github.io/AI-GROOVE-FM/).
 
